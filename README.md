@@ -1,6 +1,6 @@
 # ARPSPOOFER
 
-Script written in Python to do ARP poisoning.
+Script written in Python to do ARP poisoning.\r\n
 To use it you need to be root or sudo privileges.
 
 ******
