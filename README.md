@@ -23,7 +23,7 @@ in the other one you just switch the two IPs.
 Now all the traffics will be share with you.
 
 *An example to how to run the script*
-![](gif/arpspoofer.py)
+![](gif/arpspoofer.gif)
 
 ******
 
